@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1678201549 source:c:\users\hp\desktop\programy na github\c++\programs\project - summarizes the results of the work quality\projekt 2.1\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+
+1678205149 source:c:\users\hp\desktop\portfolio programy na github\c++\programs\summarized results of the work quality - project\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+
+1742261890 source:f:\my portafolio it ulepszona\c++\programs\summarized results of the work quality - project\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<string>
+	<stdexcept>
+	<iomanip>
+	"constants.h"
+
+1742261890 f:\my portafolio it ulepszona\c++\programs\summarized results of the work quality - project\constants.h
+	<string>
+
