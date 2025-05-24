@@ -141,8 +141,6 @@ Please ensure your code is well-commented and adheres to the existing style.
 **Adrian Lesniak**
 _C++ Developer & Data Analysis Enthusiast_
 
-(You can add a link to your GitHub/LinkedIn profile, e.g., `[Adrian Lesniak](https://github.com/yourusername)`)
-
 ## 📃 License
 
 This project is licensed under the **MIT License**.
