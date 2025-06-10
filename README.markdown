@@ -9,6 +9,8 @@ _A C++ console tool for insightful analysis of employee work quality grades, fea
 
 **Employee Performance Analyzer Pro** is a robust C++ console application designed to assist in evaluating and understanding employee work quality. The program generates or loads a set of work quality grades (typically for a series of evaluations), then provides comprehensive statistical analysis including averages, medians, and the most frequent grades. A key feature is its ability to visually represent grade distribution through a histogram. The application also supports saving and loading grade data to/from files and includes error logging for reliable operation. Its colorful user interface makes data interpretation more accessible.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🎲 **Random Grade Generation**: Simulate work quality grades (0-10) for a defined number of evaluations (e.g., 40).
@@ -27,9 +29,19 @@ _A C++ console tool for insightful analysis of employee work quality grades, fea
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the menu, statistical output, and histogram._
 
-_In the future, screenshots showcasing the menu, statistical output, and histogram will be added here._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
