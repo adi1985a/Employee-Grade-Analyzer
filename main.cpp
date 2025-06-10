@@ -35,8 +35,8 @@ void displayHeader() {
     system("cls");
     cout << Constants::CYAN;
     cout << "+================================================+\n";
-    cout << "|         Employee Work Quality Assessment         |\n";
-    cout << "|            Created by Adrian Lesniak            |\n";
+    cout << "|         Employee Work Quality Assessment       |\n";
+    cout << "|            Created by Adrian Lesniak           |\n";
     cout << "+================================================+\n\n";
     cout << Constants::RESET;
 }
